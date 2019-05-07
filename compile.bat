@@ -1,0 +1,1 @@
+nasm -f bin -o boot.img snake.asm
